@@ -1,5 +1,5 @@
 {
-    "name": "openssl-win-x64",
+    "name": "openssl_win_x64",
     "require": {
         "valk": {
             "min": "0.8.0"
